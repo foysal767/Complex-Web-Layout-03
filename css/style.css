@@ -1,0 +1,123 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    padding-top: 5px;
+}
+menu{
+    background-color: aqua;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
+menu h1{
+    color: red;
+}
+header{
+    background-color: cadetblue;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+header h1{
+    color: white;
+}
+.section-01-left{
+    background-color: deeppink;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    float: left;
+}
+.section-01-left{
+    color: blue;
+}
+.section-01-center{
+    background-color: rgb(204, 255, 20);
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    float: left; 
+}
+.section-01-center{
+    color: maroon;
+}
+.section-01-right{
+    background-color: deeppink;
+    width: 25%;
+    height: 100%;
+    text-align: center;
+    float: left;    
+}
+.section-01-right{
+    color: blue;
+}
+.section-01{
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+    margin: 0 12.5%;
+}
+.section-02-left{
+    background-color: rebeccapurple;
+    width: 25%;
+    height: 150px;
+    float: left;
+    text-align: center;
+}
+.section-02-left{
+    color: crimson;
+}
+.section-02-right{
+    background-color: rgb(150, 8, 8);
+    width: 25%;
+    height: 150px;
+    float: left;
+    text-align: center;
+}
+.section-02-right{
+    color: darkgreen;
+}
+.section-02{
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+    margin: 0 25%;
+}
+.footer-left{
+    background-color: royalblue;
+    width: 15%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+.footer-left{
+    color: firebrick;
+}
+.footer-center{
+    background-color: seagreen;
+    width: 70%;
+    height: 100%;
+    float: left;
+    text-align: center;
+}
+.footer-center{
+    color: navy;
+}
+.footer-right{
+    background-color: royalblue;
+    width: 15%;
+    height: 100%;
+    float: right;
+    text-align: center;
+}
+.footer-right{
+    color: firebrick;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    margin: 0;
+    overflow: hidden;
+}
